@@ -5,7 +5,7 @@ Source code for setting the status bar style using Swift.
 
 Tutorial: 
 
-http://www.seemuapps.com/uinavigation-bar-background-image
+http://www.seemuapps.com/tutorial-set-status-bar-style
 
 Check out our Website: http://www.seemuapps.com
 
